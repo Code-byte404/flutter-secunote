@@ -17,7 +17,7 @@ class _EmptyState extends State<Empty> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: emptyAppbar(),
+      appBar: emptyAppbar(''),
       body: Center(
         child: Container(
           width: MediaQuery.of(context).size.width / 1.2,

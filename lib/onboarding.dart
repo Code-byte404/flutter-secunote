@@ -44,7 +44,7 @@ class _OnboardingState extends State<Onboarding> {
 //                      MaterialPageRoute(builder: (context) => Empty()),
 //                    );
 
-    authenticate();
+    //authenticate();
   }
 
   @override

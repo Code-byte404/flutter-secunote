@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_todolist/home.dart';
 import 'package:flutter_todolist/task.dart';
-import 'package:flutter_todolist/whiteboard.dart';
+import 'draw.dart';
 import 'util.dart';
 
 
@@ -20,7 +20,7 @@ class BottomNavigationBarApp extends StatelessWidget {
     Navigator.of(context).push(
       MaterialPageRoute<Null>(builder: (BuildContext context) {
         //return (index == 1) ? Task() : Home();
-        return (index == 1) ? WhiteBoard() : Home();
+        return (index == 1) ? Draw() : Home();
       }),
     );
   }

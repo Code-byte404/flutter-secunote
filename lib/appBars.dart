@@ -115,7 +115,7 @@ Widget fullAppbar(BuildContext context) {
   );
 }
 
-Widget emptyAppbar() {
+Widget emptyAppbar(var Title) {
   return PreferredSize(
     preferredSize: Size.fromHeight(75.0),
     child: GradientAppBar(
@@ -137,22 +137,13 @@ Widget emptyAppbar() {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              'Hello Brenda!',
+              Title,
               style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
-            ),
-            Text(
-              'Today you have no tasks',
-              style: TextStyle(fontSize: 10, fontWeight: FontWeight.w300),
             ),
           ],
         ),
       ),
-      actions: <Widget>[
-        Container(
-          margin: EdgeInsets.fromLTRB(0, 20, 20, 0),
-          child: Image.asset('assets/images/photo.png'),
-        ),
-      ],
+
       elevation: 0,
       gradient: LinearGradient(
         begin: Alignment.topLeft,

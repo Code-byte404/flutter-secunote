@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
 
 
     return Scaffold(
-//      appBar: fullAppbar(context),
+      appBar: emptyAppbar('Note'),
       body: Container(
         width: MediaQuery.of(context).size.width,
         child: ListView.builder(

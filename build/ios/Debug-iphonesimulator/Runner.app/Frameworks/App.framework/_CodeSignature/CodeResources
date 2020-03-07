@@ -10,15 +10,15 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		Wb1owM5pF0bxuaaTjiCCWwaNSYI=
+		XBBaijHzu+FSY7fffvDRXstvp5Q=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		qDIQAEaDA6ZWvp48I/E2FK1zVi8=
+		UYuvOz02XG+6BWn/6A7PiBOQEYQ=
 		</data>
 		<key>flutter_assets/LICENSE</key>
 		<data>
-		Je9PlhZAq2GVLMVgdqonqdOg+b8=
+		AehTZBhigDyIdySv7Ev/6xhMWzg=
 		</data>
 		<key>flutter_assets/assets/fonts/Rubik/Rubik-Black.ttf</key>
 		<data>
@@ -134,7 +134,19 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		TO5CJ5OfcXnh3jbPXAoWWAonRKI=
+		vIUfOTojCHSOum7AeQMSRd/XM7Q=
+		</data>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf</key>
+		<data>
+		1ehFsSqkfGY+SSsS/FMPIi+okTc=
+		</data>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
+		<data>
+		Lutxd9VbV66wLQM4v4sy1OY8L2Q=
+		</data>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
+		<data>
+		TX+N4uHDWWFm9t67js9nGVQYBoY=
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
@@ -147,33 +159,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wb1owM5pF0bxuaaTjiCCWwaNSYI=
+			XBBaijHzu+FSY7fffvDRXstvp5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Umk6dTECdAUFXLhgPtU+IR3Tx20Prs7NBdfdCB0zgYA=
+			6BqIvYtuYttQEhssi2HW//LZhdncI60kQPjCrTrmo8c=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qDIQAEaDA6ZWvp48I/E2FK1zVi8=
+			UYuvOz02XG+6BWn/6A7PiBOQEYQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SpxYgTqkZjw1rpdUJITjKB5QmXw/YCYIBj3If0Rllnk=
+			L4qzwGmqcRRcSi35BtIEIVFpkeryZAg0OrfQDHlGEdY=
 			</data>
 		</dict>
 		<key>flutter_assets/LICENSE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Je9PlhZAq2GVLMVgdqonqdOg+b8=
+			AehTZBhigDyIdySv7Ev/6xhMWzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			aC7GOUZbvYL9zpXI5u02cfsaB6NJcJ0yK0roq1wUApg=
+			wE4DpC/gD8IWahaKCL7FWFo6N3FFrUrjACzQQ152Rus=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/fonts/Rubik/Rubik-Black.ttf</key>
@@ -488,11 +500,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TO5CJ5OfcXnh3jbPXAoWWAonRKI=
+			vIUfOTojCHSOum7AeQMSRd/XM7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			4U71zUP1a5DlKblWXHo9K/vfYMmeI4bSWPW+aL1KuTo=
+			3vOS882K8Ag1eSizZN2v/Myu5hngU/e02ZSWGW0bwJs=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1ehFsSqkfGY+SSsS/FMPIi+okTc=
+			</data>
+			<key>hash2</key>
+			<data>
+			5ZK+Ius5mEnQ/Wj2komMGfPWAzQWovYbBwVpEitxDAQ=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lutxd9VbV66wLQM4v4sy1OY8L2Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			PJ7Z9eF1B4E085L4CSVZxMDcVztjFGzWZc8wLjb0O3M=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TX+N4uHDWWFm9t67js9nGVQYBoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			6g4YciMFdGj90LsSXvdSAqKSPqW2GwHIIYThAAT5WB4=
 			</data>
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
