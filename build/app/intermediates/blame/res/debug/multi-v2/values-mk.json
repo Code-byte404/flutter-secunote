@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lollipop/Documents/test/Flutter-Todolist-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/lollipop/.gradle/caches/transforms-1/files-1.1/core-1.1.0-beta01.aar/84df1263cdcb371fa60c2f6e8d5d3dea/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "995",
+                        "endColumns": "100",
+                        "endOffsets": "1091"
+                    }
+                },
+                {
+                    "source": "/Users/lollipop/.gradle/caches/transforms-1/files-1.1/biometric-1.0.0-alpha04.aar/6d4df6e0d2b347ddf83a45616e5edd2d/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,180,273,394,524,648,766,901",
+                        "endColumns": "124,92,120,129,123,117,134,93",
+                        "endOffsets": "175,268,389,519,643,761,896,990"
+                    }
+                }
+            ]
+        }
+    ]
+}
